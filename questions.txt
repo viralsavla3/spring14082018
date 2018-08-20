@@ -1,0 +1,59 @@
+
+1)what is dependency injection
+2)what is bean autowiring?
+3)wich implementation of applicationcontext give sus control to shutdown container?
+4) Since which of following is correct code snippet for injecting values using setter or constructor injection
+5) which annotations in life cycle for spring framework
+6)singleton beans are
+7)dispachter servlet 
+8)role of contextloaderlistner
+9)which of foloowing code snippet is correct to configure viewresolver in spring mvc
+10)does hibernate support dependency injection
+11)code snippet for instancete=ing session in hibernate including configuration and session factory
+where hibernate will look for hibernate.cfg.xml      classpath
+12)which state of obj ensures synchronisation which state (persistant state-ans)
+13)transisent to persistent state -(save)
+14)jsp lifecycle method
+15jsp directive is used for import
+16)not jsp implicit obj (totla 9 hai)
+16.5)predict behaviour of welcome wala in pdf.
+17)diff get patrameter and getattribute methods
+18)wh.o.t.f not a directive in JSP
+19)wh.o.t .f conatiner service allows to lookup for resources
+20)wh.t.f is correct anotation for composite key i hibernate
+21)h.m fetch strategies in hibernate?
+22)wh.strategies firesonly single query to get parent and child records.
+23)wh.xml attribute is responisble to save update delete in db (-cascade)
+24)wh.o.f default mode of loading of child elements in hibernate
+25)code snippet in hibernate to scare u
+what is role of dialect?
+26)code snippet for mapping entry in cfg file
+27)what tiem of servlet init method is call
+28 all possiblke ways to redirect onctrol in  servelte and jsp
+29)String param = get
+x.____(name) what type of obj x should be
+30)scope in servlets and jsp
+31)spring conf can be written in select and apply
+32)w.o.f is not a stereotype (@Bean)
+33)makes a method transaction aware
+34)w.o.f is false aboyt lazy loadig
+35)w.o.f is directive entry for making a error in jsp (iserror)
+36)servlet is child of ___(context)
+37)correct annotation for servlet
+38)which httpmethod ends session
+39)code snippet native sql or hql query?
+40)w.o.f is correct annotation of requestmapping in spring mvc(variations in attribure names)
+41)autowired annotation does?
+42)w.o.f mandatory annotation for making hibernate entity
+43)w.o.f correct isyntac for imorting external jsvascipot
+44)code snippet w/o closing titletag what will be the ouput
+45)var n function in javascriptare
+46)w.o.f loop manages the cursor implicity
+47)w.o.f parameter type acts as constant
+48)query with nested gropu function 
+is it a valid sql query
+49)w.o.f statement helps in invoking database stored procedures in jdbc
+50)join query need to identify tyope of join?
+51)code snippet on cursor that trys to print row count before fecth and after fetch
+52)w.o.f is synchronised collection> vector
+53)what can be done to sorting custom objs in tree set
