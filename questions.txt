@@ -1,16 +1,16 @@
 
-1)what is dependency injection
-2)what is bean autowiring?
+1)what is dependency injection (design pattern) (In Dependency Injection, you do not have to create your objects but have to describe how they should be created. You don’t connect your components and services together in the code directly, but describe which services are needed by which components in the configuration file. The IoC container will wire them up together.)
+2)what is bean autowiring? (without using constructor-arg andproperty)
 3)wich implementation of applicationcontext give sus control to shutdown container?
 4) Since which of following is correct code snippet for injecting values using setter or constructor injection
-5) which annotations in life cycle for spring framework
-6)singleton beans are
-7)dispachter servlet 
+5) which annotations in life cycle for spring framework postconstruct predestroy
+6)singleton beans are (not thread safe)
+7)dispachter servlet (Httprequest and response)
 8)role of contextloaderlistner
 9)which of foloowing code snippet is correct to configure viewresolver in spring mvc
 10)does hibernate support dependency injection
 11)code snippet for instancete=ing session in hibernate including configuration and session factory
-where hibernate will look for hibernate.cfg.xml      classpath
+where hibernate will look for hibernate.cfg.xml      -classpath
 12)which state of obj ensures synchronisation which state (persistant state-ans)
 13)transisent to persistent state -(save)
 14)jsp lifecycle method
@@ -28,11 +28,11 @@ where hibernate will look for hibernate.cfg.xml      classpath
 25)code snippet in hibernate to scare u
 what is role of dialect?
 26)code snippet for mapping entry in cfg file
-27)what tiem of servlet init method is call
+27)what tiem of servlet init method is call  at initialisation
 28 all possiblke ways to redirect onctrol in  servelte and jsp
 29)String param = get
 x.____(name) what type of obj x should be
-30)scope in servlets and jsp
+30)scope in servlets and jsp (Application,session,request,page)
 31)spring conf can be written in select and apply
 32)w.o.f is not a stereotype (@Bean)
 33)makes a method transaction aware
@@ -44,10 +44,10 @@ x.____(name) what type of obj x should be
 39)code snippet native sql or hql query?
 40)w.o.f is correct annotation of requestmapping in spring mvc(variations in attribure names)
 41)autowired annotation does?
-42)w.o.f mandatory annotation for making hibernate entity
+42)w.o.f   (entity and id)
 43)w.o.f correct isyntac for imorting external jsvascipot
 44)code snippet w/o closing titletag what will be the ouput
-45)var n function in javascriptare
+45)var n function in javascriptare (Declaration types)
 46)w.o.f loop manages the cursor implicity
 47)w.o.f parameter type acts as constant
 48)query with nested gropu function 
