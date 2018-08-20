@@ -1,0 +1,57 @@
+1. What is dependency injection
+2. what is bean autowiring
+3. which implementation of application context gave us control to shutdown container
+4. (Code Snippet) which of the following xml is the correct code snippet for injecting values using setter or correction injection
+5. which of the following annotation are used for spring lifecycle in framework
+6. in spring application context the singleton are by default lazy or eager
+7. what is dispatcher servlet
+8. what is the role of context loader listner
+9. which of the following code snippet is correct for view resolver spring mvc
+10. does hibernate support dependency injection
+11. (Code Snippet) instantiating session in hibernate - where is hibernate look for in hibernate.cfg.xml file 
+12. which state of object ensures synchronization in database when object config is changed
+13. which of the following convert object from transient to persistent state
+14. which of the following is JSP life cycle method 
+15. which of the following JSP directives used for import JSP
+16. which of the following Not a JSP Implicit Object
+17. (Code Snippet) reading request parameter(in PDF)
+18. Difference between get parameters and get attribute methods
+19. which of the following is not a directive in jsp 
+20. which of the following Container service allows to look up for services
+21. which of the following is the correct annotation for foreign key in hibernate
+22. which of the following is fake strategies supported by the hibernate(check boxes)
+23. which strategy fires only a single query to get parent and child record
+24. which xml attribute is responsible to save update and delete child record by parent in database(Ans. CASCADE)
+25. which is default mode of loading child elements in hibernate 
+26. (Code Snippet) what is the role of dialect in this code
+27. (Code Snippet) for specifying mapping in cfg file
+28. what is servlet init method is called
+29. all the possible ways to redirect control from one page to another in servlet and jsp
+30. (Code Snippet) string param = get.param
+		   x.____ (name) to read int parameter
+		   what type of object x should be
+31. (Code Snippet) - nahi hai shayad
+32. different Scope in servlet and jsp
+33. Spring configuration can be written in ,select all that apply
+34. which of the following is not a stereotype of the component
+35. which of the following make the method transaction aware
+36. which of the following is false about lazy loading
+37. which of the following is the directories entry for making error page in jsp
+38. a servlet is child of _______
+39. which of the following is the correct annotation for servlet 
+40. which http session method ends session
+41. (Code Snippet) native hql or sql query
+42. which of the following is the correct annotation for request mapping (Variations in attribute names)
+43. what Autowired annotation does
+44. which of the following are mandatory annotations for making hibernate entry
+45. which of the following is the correct syntax for importing external javascript
+46. (Code Snippet) what will output of following code(Tag is not closed)
+47. where an function in javascript are
+48. which of the following loop manages the cursor implicitly
+49. which of the following parameter type acts as a constant
+50. (Code Snippet) nested group functions, is it a valid SQL query
+51. which of the following statement help in invoking database stored procedures in jdbc
+52. (Code Snippet) join query, identify the join
+53. (Code Snippet) cursor , try to fill rowcount before fetch and after fetch 
+54. which of the following is the synchronized collection 
+55. what can be done to sorting custom object in a tree set 
